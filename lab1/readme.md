@@ -1,4 +1,4 @@
-## Лабораторная работа №1 находится тут:
-(Первый репоз)[https://github.com/Zerraeh/VCS-git-epam-course]
+## Р›Р°Р±РѕСЂР°С‚РѕСЂРЅР°СЏ СЂР°Р±РѕС‚Р° в„–1 РЅР°С…РѕРґРёС‚СЃСЏ С‚СѓС‚:
+[РџРµСЂРІС‹Р№ СЂРµРїРѕР·](https://github.com/Zerraeh/VCS-git-epam-course)
 
-(Второй)[https://github.com/Zerraeh/VCS-git-epam-course-2]
+[Р’С‚РѕСЂРѕР№](https://github.com/Zerraeh/VCS-git-epam-course-2)
